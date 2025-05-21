@@ -88,13 +88,10 @@ The board can be powered via:
 ## 📐 Visuals
 
 ### 🧩 Schematic  
-_Place schematic image here_  
-`schematic.png`
+![Schematic](schematic.png)
 
 ### 🧱 3D PCB Render  
-_Place 3D PCB render here_  
-`3d.png`
-
+![3D Render](3d.png)
 ---
 
 ## 🔧 Applications
